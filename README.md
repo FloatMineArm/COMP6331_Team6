@@ -15,6 +15,8 @@ find C://Prog File(x86)/MicroSoft Visual Studio/#all the way click 1st folder#/d
 2.PaperFactory
 -Instantiate GameObject?
 Sol: [GameObj, Position, Rotation].
+-Quaternion.identity?
+It means:"This quaternion corresponds to "no rotation" - the object is perfectly aligned with the world or parent axes."
 
 
 ====2020.01.14 -- Lab2====
