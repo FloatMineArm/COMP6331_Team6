@@ -10,7 +10,9 @@ Lab Setup:
 Sol:Goes to Unity, Edit, Preference, External Tools, Script Editor, select browse...
 find C://Prog File(x86)/MicroSoft Visual Studio/#all the way click 1st folder#/devenv.exe
 
-*Useful link:* https://code.visualstudio.com/docs/other/unity
+*Useful link:* 
+https://code.visualstudio.com/docs/other/unity
+https://www.youtube.com/watch?v=DL96YoqGhuc
 
 2.PaperFactory
 -Instantiate GameObject?
