@@ -26,4 +26,12 @@ TIPS:
 1.Shortcut in VS to delete a line?
 --Ctr+Shift+K.
 
-====2020.01.14 -- Lab2====
+====2020.01.14 -- Lab2&====
+
+
+
+====2020.01.14 -- Assignment1====
+
+useful link: https://github.com/idmillington/aicore
+
+====2020.01.14 -- Assignment1&====
