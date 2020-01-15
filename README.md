@@ -21,4 +21,9 @@ Sol: [GameObj, Position, Rotation].
 It means:"This quaternion corresponds to "no rotation" - the object is perfectly aligned with the world or parent axes."
 
 
+
+TIPS:
+1.Shortcut in VS to delete a line?
+--Ctr+Shift+K.
+
 ====2020.01.14 -- Lab2====
