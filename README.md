@@ -1,8 +1,21 @@
 # COMP6331_Team6
 This is the repo for Lab and Project exchange.
 
+## Final Project deadlines
+* Team Composition 	Thursday, Jan 30, 2020
+* Project Proposal 	Thursday, Feb 13, 2020
+* Project Demonstration (see schedule on Moodle) 	Thursday, Apr 09, 2020
+* Project Code (zipped) 	Saturday, Apr 11, 2020
+* Project Report, and Walkthrough Video 	Saturday, Apr 11, 2020
+* Peer Review 	Saturday, Apr 11, 2020
 
+## Class presentation
 
+* Due: a week before your presentation date
+* Presentation: 16 February - 22 February
+* 10-12 minutes in length
+* One paper per group
+* Must be strongly related to the topic of Gaming AI
 
 ====2020.01.14 -- Lab2====
 Lab Setup:
