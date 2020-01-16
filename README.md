@@ -20,18 +20,19 @@ Sol: [GameObj, Position, Rotation].
 -Quaternion.identity?
 It means:"This quaternion corresponds to "no rotation" - the object is perfectly aligned with the world or parent axes."
 
-
-
 TIPS:
 1.Shortcut in VS to delete a line?
 --Ctr+Shift+K.
-
 ====2020.01.14 -- Lab2&====
 
 
-
 ====2020.01.14 -- Assignment1====
-
 useful link: https://github.com/idmillington/aicore
-
 ====2020.01.14 -- Assignment1&====
+
+
+====2020.01.16 -- Unity Hub Installation==
+https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
+https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
+====2020.01.16 -- Unity Hub Installation&==
+
