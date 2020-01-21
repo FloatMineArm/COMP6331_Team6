@@ -17,8 +17,12 @@ This is the repo for Lab and Project exchange.
 * One paper per group
 * Must be strongly related to the topic of Gaming AI
 
-====2020.01.14 -- Lab2====
-Lab Setup:
+
+
+### ===2020.01.14 -- Lab2====
+* Lab Setup:
+
+```
 1.How to link with VS, so script editing will have some compiler prompt?
 Sol:Goes to Unity, Edit, Preference, External Tools, Script Editor, select browse...
 find C://Prog File(x86)/MicroSoft Visual Studio/#all the way click 1st folder#/devenv.exe
@@ -26,7 +30,8 @@ find C://Prog File(x86)/MicroSoft Visual Studio/#all the way click 1st folder#/d
 *Useful link:* 
 https://code.visualstudio.com/docs/other/unity
 https://www.youtube.com/watch?v=DL96YoqGhuc
-
+```
+```
 2.PaperFactory
 -Instantiate GameObject?
 Sol: [GameObj, Position, Rotation].
@@ -36,20 +41,19 @@ It means:"This quaternion corresponds to "no rotation" - the object is perfectly
 TIPS:
 1.Shortcut in VS to delete a line?
 --Ctr+Shift+K.
-====2020.01.14 -- Lab2&====
+```
 
 
-====2020.01.14 -- Assignment1====
-useful link: https://github.com/idmillington/aicore
-====2020.01.14 -- Assignment1&====
+### ====2020.01.14 -- Assignment1====
+* Code with AI book -- https://github.com/idmillington/aicore
+* Basic character moving -- https://www.youtube.com/watch?v=4Qq7d9elXNA
 
-
-====2020.01.16 -- Unity Hub Installation==
-https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
-https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
-====2020.01.16 -- Unity Hub Installation&==
 
 ## Useful Links Along the Journey
-* Assignment 1:
-Basic character moving -- https://www.youtube.com/watch?v=4Qq7d9elXNA
+```
+====2020.01.16 -- Unity Hub Installation====
+https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
+https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
+```
+
 
