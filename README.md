@@ -51,5 +51,5 @@ https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
 
 ## Useful Links Along the Journey
 * Assignment 1:
-https://www.youtube.com/watch?v=4Qq7d9elXNA
+Basic character moving -- https://www.youtube.com/watch?v=4Qq7d9elXNA
 
