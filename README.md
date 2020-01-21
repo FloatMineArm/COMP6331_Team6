@@ -49,3 +49,7 @@ https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
 https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
 ====2020.01.16 -- Unity Hub Installation&==
 
+## Useful Links Along the Journey
+* Assignment 1:
+https://www.youtube.com/watch?v=4Qq7d9elXNA
+
