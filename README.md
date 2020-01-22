@@ -19,7 +19,7 @@ This is the repo for Lab and Project exchange.
 
 
 
-### ===2020.01.14 -- Lab2====
+### ===2020.01.14 -- Lab1====
 * Lab Setup:
 
 ```
@@ -41,6 +41,20 @@ It means:"This quaternion corresponds to "no rotation" - the object is perfectly
 TIPS:
 1.Shortcut in VS to delete a line?
 --Ctr+Shift+K.
+```
+
+### ===2020.01.21 -- Lab2====
+```
+1.Different between (Vector3.magnitude) VS (Vector3.normalized) ?
+mag: The length of the vector is square root of (x*x+y*y+z*z).
+norm: Makes this vector have a magnitude of 1.
+
+*Useful link:* 
+https://docs.unity3d.com/ScriptReference/Vector3-magnitude.html
+https://docs.unity3d.com/ScriptReference/Vector3.Normalize.html
+```
+```
+2.
 ```
 
 
