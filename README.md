@@ -41,6 +41,7 @@ It means:"This quaternion corresponds to "no rotation" - the object is perfectly
 TIPS:
 1.Shortcut in VS to delete a line?
 --Ctr+Shift+K.
+<<<<<<< HEAD
 ```
 
 ### ===2020.01.21 -- Lab2====
@@ -70,4 +71,22 @@ https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
 https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
 ```
 
+=======
+
+=======
+====2020.01.14 -- Lab2&====
+
+
+====2020.01.14 -- Assignment1====
+useful link: https://github.com/idmillington/aicore
+Unity links: 
+====2020.01.14 -- Assignment1&====
+
+
+====2020.01.16 -- Unity Hub Installation==
+https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
+https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/
+====2020.01.16 -- Unity Hub Installation&==
+>>>>>>> Stashed changes
+>>>>>>> Update README.md
 
